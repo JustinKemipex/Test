@@ -1,0 +1,15 @@
+{
+    "id": "6c3b8c1e-8a5a-4b7b-bf65-123456789abc",
+    "name": "Kemipex Extension",
+    "publisher": "Justin",
+    "version": "1.0.0.2",
+    "platform": "1.0.0.0",
+    "application": "27.3.44313.46295",
+    "runtime": "16.0",
+    "idRanges": [
+        {
+            "from": 50300,
+            "to": 50399
+        }
+    ]
+}
