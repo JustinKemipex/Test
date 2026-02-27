@@ -9,7 +9,7 @@ pageextension 50320 HideRemark3 extends "Sales Quote"
             field("Remark 3"; Rec."Remark 3")
             {
                 ApplicationArea = All;
-                Visible = false;
+                Visible = ;
             }
         }
     }
