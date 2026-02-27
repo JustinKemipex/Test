@@ -4,4 +4,4 @@ pageextension 50300 CustomerListExt extends "Customer List"
     begin
         Message('Sandbox connection successful.');
     end;
-}
+}test
